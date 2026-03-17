@@ -142,11 +142,16 @@ This project is open source and available under the [MIT License](LICENSE).
 - Placeholder images via [placecats.com](https://placecats.com)
 - Icons by [Font Awesome](https://fontawesome.com)
 - Font Inter by [Google Fonts](https://fonts.google.com)
+## Contact
 
-##  Contact
+Om Gedam
 
-Project Link: [https://github.com/yourusername/documentary-research-site](https://github.com/yourusername/documentary-research-site)
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
----
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
-*Built for documentary researchers, students, and enthusiasts* 🎬🔍
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
