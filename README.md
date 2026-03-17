@@ -2,6 +2,8 @@
 
 A modern, academic-style web interface for discovering and researching documentary films. This project presents a clean, searchable database interface with filtering capabilities, citation tools, and a focus on research-grade documentary content.
 
+<img width="1879" height="2368" alt="image" src="https://github.com/user-attachments/assets/9f49eef2-c7fd-436f-b5eb-88a0188f7290" />
+
 
 ## Overview
 
